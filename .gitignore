@@ -1,0 +1,33 @@
+# Arquivos de ambiente do Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment (Padrão do venv)
+venv/
+*.env
+*.venv
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache do pytest
+.cache/
+
+# Arquivos temporários do sistema
+*.swp
+*~
+*.bak
+
+# Arquivos gerados pelo Python
+*.pyo
+*.pyc
+
+# Arquivos de compilação do projeto
+build/
+dist/
+*.egg-info/
